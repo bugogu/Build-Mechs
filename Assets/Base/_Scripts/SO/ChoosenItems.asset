@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88807a8aa00a3de47aceebe9f170328f, type: 3}
+  m_Name: ChoosenItems
+  m_EditorClassIdentifier: 
+  itemsData:
+  - itemType: 0
+    itemName: SHIELD
+    priceValue: 20
+    itemImage: {fileID: 7227620443876219398, guid: aab9d779f5f0c334bad8c970171db683,
+      type: 3}
+  - itemType: 2
+    itemName: PART
+    priceValue: 10
+    itemImage: {fileID: 4954480944875039176, guid: 1e76c4e0d3796df48991279cb0d47420,
+      type: 3}
+  - itemType: 1
+    itemName: METEOR
+    priceValue: 30
+    itemImage: {fileID: 4633987185608352467, guid: e9e87c697998c2741a422a51d1022cf9,
+      type: 3}
